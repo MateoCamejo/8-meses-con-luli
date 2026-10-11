@@ -1031,7 +1031,7 @@ body:before {
 	top: 18vh;
 	width: clamp(130px, 19vw, 260px);
 	height: clamp(130px, 19vw, 260px);
-	background-image: url("All_Boys_logo.png");
+	background-image: url("Fotos y escudos/All_Boys_logo.png");
 	mix-blend-mode: multiply;
 }
 body:after {
@@ -1039,7 +1039,7 @@ body:after {
 	bottom: 12vh;
 	width: clamp(145px, 20vw, 270px);
 	height: clamp(190px, 25vw, 320px);
-	background-image: url("san lorenzo.jpg");
+	background-image: url("Fotos y escudos/san lorenzo.jpg");
 	clip-path: polygon(50% 0, 94% 12%, 88% 68%, 50% 100%, 12% 68%, 6% 12%);
 	mix-blend-mode: multiply;
 	opacity: 0.045;
